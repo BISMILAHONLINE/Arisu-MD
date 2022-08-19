@@ -1,3 +1,3 @@
 {
-	"name": "C.C Bot Multi Device "
+	"name": "Arisu Bot Multi Device "
 }
