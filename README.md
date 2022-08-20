@@ -11,15 +11,15 @@ Arisu Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 # ```Bot Info```
 <p align="center">
-<a href="https://visitor-badge.glitch.me/badge?page_id=alvino-prog/C.C-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=alvino-prog/C.C-MD"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alvino-prog/C.C-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/alvino-prog/C.C-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/alvino-prog/C.C-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/alvino-prog/C.C-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/alvino-prog/C.C-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/alvino-prog/C.C-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/alvino-prog/C.C-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/alvino-prog/C.C-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/alvino-prog/C.C-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=alvino-prog/Arisu-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=alvino-prog/C.C-MD"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alvino-prog/C.C-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/alvino-prog/C.C-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/alvino-prog/C.C-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/alvino-prog/C.C-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/alvino-prog/C.C-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/alvino-prog/C.C-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/alvino-prog/C.C-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/Arisu-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/alvino-prog/C.C-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 <p align='center'>
     </p>
@@ -48,11 +48,11 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/alvino-prog/Arisu-MD/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/alvino-prog/Arisu-MD/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/alvino-prog/Arisu-MD/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/alvino-prog/Arisu-MD/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/alvino-prog/Arisu-MD/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
@@ -61,7 +61,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alvino-prog/Arisu-MD/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -72,8 +72,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD4.git
-cd CheemsBot-MD4
+git clone https://github.com/alvino-prog/Arisu-MD.git
+cd Arisu-MD
 
 npm start
 ```
@@ -89,8 +89,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD
+git clone https://github.com/alvino-prog/Arisu-MD
+cd Arisu-MD
 npm start
 ```
 ## `For VPS`
@@ -101,8 +101,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
+git clone https://github.com/alvino-prog/Arisu-MD
+cd Arisu-MD4
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
