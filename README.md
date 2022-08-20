@@ -1,6 +1,4 @@
 
-
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩4ꫂ<br></h1>
 <p align="center">
 <img src="https://camo.githubusercontent.com/494dc5c0af589ccbcc1a810928f3be9fafb25919c6e4cf6fcbc3dbe8619a535d/68747470733a2f2f74656c656772612e70682f66696c652f6365616338633133336332333633643739396630322e6a7067" alt="animated" width="540" height="280" />
 </p>
