@@ -2,29 +2,26 @@
 
 <h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩4ꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://camo.githubusercontent.com/494dc5c0af589ccbcc1a810928f3be9fafb25919c6e4cf6fcbc3dbe8619a535d/68747470733a2f2f74656c656772612e70682f66696c652f6365616338633133336332333633643739396630322e6a7067" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-
-<p align="center">
-<a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+Arisu Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://visitor-badge.glitch.me/badge?page_id=alvino-prog/C.C-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=alvino-prog/C.C-MD"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alvino-prog/C.C-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/alvino-prog/C.C-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/alvino-prog/C.C-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/alvino-prog/C.C-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/alvino-prog/C.C-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/alvino-prog/C.C-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/alvino-prog/C.C-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/alvino-prog/C.C-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/alvino-prog/C.C-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 <p align='center'>
     </p>
@@ -33,9 +30,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/6281276242128"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## ```Donate Me```
@@ -45,12 +40,6 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
-
-## ```Bot Support Groups```
-
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
 
 # Setup For Deployment 👇
 
