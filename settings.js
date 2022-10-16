@@ -14,8 +14,8 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -31,19 +31,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281276242128'] //ur owner number
-global.ownername = "Pino" //ur owner name
-global.ytname = "YT: XIllustrious" //ur yt chanel name
-global.socialm = "GitHub: alvino-prog" //ur github or insta name
+global.vcardowner = ['6288980870067'] //ur owner number
+global.ownername = "Swift" //ur owner name
+global.ytname = "YT: Swift" //ur yt chanel name
+global.socialm = "GitHub: XyzenzKannaV1" //ur github or insta name
 global.location = "Indonesia, Singapore" //ur location
 
 //bot bomdy 
-global.owner = ['6281276242128']
-global.ownertag = '6281276242128' //ur tag number
-global.botname = 'Arisu-MD' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://al-kun.xyz" //ur website to be displayed
-global.botscript = 'https://github.com/alvino-prog/C.C-MD1' //script link
+global.owner = ['6288980870067']
+global.ownertag = '6288980870067' //ur tag number
+global.botname = 'Siesta Multi Device' //ur bot name
+global.linkz = "https://youtu.be/swift" //your theme url which will be displayed on whatsapp
+global.websitex = "https://linktr.ee/kannachanv1" //ur website to be displayed
+global.botscript = 'https://github.com/XyzenzKannaV1/C.C-MD1' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Arisu-MD" //ur sticker watermark packname
@@ -56,7 +56,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/arisu.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/arisu.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281276242128'] //ur premium numbers
+global.premium = ['6288980870067'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
